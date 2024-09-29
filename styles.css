@@ -1,0 +1,12 @@
+.banner{
+    background-image: url(/portfolio/background\ img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding:250px 0;
+}
+.about-padding{
+    padding:200px 0;
+}
+.skills-padding{
+    padding: 80px 0;
+}
